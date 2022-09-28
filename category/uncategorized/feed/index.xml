@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://leebadung.github.io/mywordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 07 Sep 2022 09:46:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Demo</title>
+		<link>https://leebadung.github.io/mywordpress/demo/</link>
+					<comments>https://leebadung.github.io/mywordpress/demo/#respond</comments>
+		
+		<dc:creator><![CDATA[LeBaDung]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2022 08:58:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://leebadung.github.io/mywordpress/?p=35</guid>
+
+					<description><![CDATA[YOU SPEAK OF JUSTICE?BUY THEMEREPEL THE INVALDERS!BUY THEMEONWARDS TO GLORY!BUY THEME AN&#160;OP&#160;THEME JUST FOR GAMERS Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="35" class="elementor elementor-35">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-57f23d6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="57f23d6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f64a8ec" data-id="f64a8ec" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c418b9e elementor--h-position-center elementor--v-position-middle elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="c418b9e" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;dots&quot;,&quot;transition_speed&quot;:1000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.7.1 - 16-05-2022 */
+.elementor-slides .swiper-slide-bg{background-size:cover;background-position:50%;background-repeat:no-repeat;min-width:100%;min-height:100%}.elementor-slides .swiper-slide-inner{background-repeat:no-repeat;background-position:50%;position:absolute;top:0;left:0;bottom:0;right:0;padding:50px;margin:auto}.elementor-slides .swiper-slide-inner,.elementor-slides .swiper-slide-inner:hover{color:#fff;display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-slides .swiper-slide-inner .elementor-background-overlay{position:absolute;z-index:0;top:0;bottom:0;left:0;right:0}.elementor-slides .swiper-slide-inner .elementor-slide-content{position:relative;z-index:1;width:100%}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:35px;font-weight:700;line-height:1}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:17px;line-height:1.4}.elementor-slides .swiper-slide-inner .elementor-slide-description:not(:last-child),.elementor-slides .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:30px}.elementor-slides .swiper-slide-inner .elementor-slide-button{border:2px solid #fff;color:#fff;background:transparent;display:inline-block}.elementor-slides .swiper-slide-inner .elementor-slide-button,.elementor-slides .swiper-slide-inner .elementor-slide-button:hover{background:transparent;color:inherit;text-decoration:none}.elementor--v-position-top .swiper-slide-inner{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor--v-position-bottom .swiper-slide-inner{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.elementor--v-position-middle .swiper-slide-inner{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor--h-position-left .swiper-slide-inner{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor--h-position-right .swiper-slide-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor--h-position-center .swiper-slide-inner{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}body.rtl .elementor-widget-slides .elementor-swiper-button-next{left:10px;right:auto}body.rtl .elementor-widget-slides .elementor-swiper-button-prev{right:10px;left:auto}.elementor-slides-wrapper div:not(.swiper-slide)>.swiper-slide-inner{display:none}@media (max-width:767px){.elementor-slides .swiper-slide-inner{padding:30px}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:23px;line-height:1;margin-bottom:15px}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:13px;line-height:1.4;margin-bottom:15px}}</style>		<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInDown">
+				<div class="swiper-wrapper elementor-slides">
+										<div class="elementor-repeater-item-7a59dcf swiper-slide"><div class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--out"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">YOU SPEAK OF JUSTICE?</div><div  class="elementor-button elementor-slide-button elementor-size-sm">BUY THEME</div></div></div></div><div class="elementor-repeater-item-2bad032 swiper-slide"><div class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">REPEL THE INVALDERS!</div><div  class="elementor-button elementor-slide-button elementor-size-sm">BUY THEME</div></div></div></div><div class="elementor-repeater-item-7c1d385 swiper-slide"><div class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">ONWARDS TO GLORY!</div><div  class="elementor-button elementor-slide-button elementor-size-sm">BUY THEME</div></div></div></div>				</div>
+															<div class="swiper-pagination"></div>
+																	</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8f74f10 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8f74f10" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cdbca2d" data-id="cdbca2d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1dd9000 elementor-widget elementor-widget-heading" data-id="1dd9000" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default"><h3 class="edgtf-st-title" style="background: 0px 0px rgb(23, 22, 26); border-style: initial; border-color: initial; border-image: initial; padding: 0px; vertical-align: baseline; outline: 0px; font-size: 45px; line-height: 1.13em; color: rgb(255, 255, 255); font-weight: 700; text-transform: uppercase; font-family: Rubik, sans-serif; text-align: center; white-space: normal;">AN&nbsp;<span class="edgtf-st-title-hightlight" style="background: 0px 0px; border-style: initial; border-color: initial; border-image: initial; margin: 0px; padding: 0px; vertical-align: baseline; outline: 0px; color: rgb(255, 14, 31);">OP</span>&nbsp;THEME JUST FOR GAMERS</h3></h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7c9a090 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7c9a090" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9ebc78c" data-id="9ebc78c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ed0c821 e-transform elementor-widget elementor-widget-html" data-id="ed0c821" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:500,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="124.985px" height="3.411px" viewBox="0 0 124.985 3.411" enable-background="new 0 0 124.985 3.411" xml:space="preserve">
+<polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 "></polygon>
+</svg>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-76186db elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="76186db" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f3bdf46" data-id="f3bdf46" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-278aec1 elementor-widget elementor-widget-text-editor" data-id="278aec1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><span style="color: #c0c0c0; font-family: Rubik, sans-serif; font-size: 17px; text-align: center; background-color: #17161a;">Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio sed non.</span></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3d061b4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3d061b4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-790e4eb animated-fast elementor-invisible" data-id="790e4eb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;background_motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;animation&quot;:&quot;zoomIn&quot;,&quot;background_motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]}}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-309713d elementor-widget elementor-widget-eael-image-accordion" data-id="309713d" data-element_type="widget" data-widget_type="eael-image-accordion.default">
+				<div class="elementor-widget-container">
+			    <div class="eael-img-accordion accordion-direction-horizontal eael-img-accordion-horizontal-align-left eael-img-accordion-vertical-align-bottom" id="eael-img-accordion-309713d" data-img-accordion-id="309713d" data-img-accordion-type="on-hover">
+                    
+            <div class="eael-image-accordion-hover" style="background-image: url(https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-3.jpg);"  tabindex="0">
+            <div class="overlay">
+                <div class="overlay-inner">
+                    <div class="overlay-inner ">
+                        <h2 class="img-accordion-title">WHITE KEEP ASSAULT</h2>                            <p><p> </p><p>June 4, 2018</p><p>Maecenas tempus, tellus eget condimentum rhoncus, sem quam&#8230;</p></p>
+                                            </div>
+                </div>
+            </div>
+            </div>
+                </div>
+        <style typr="text/css">
+                    #eael-img-accordion-309713d .eael-image-accordion-hover:hover {
+                        flex: 3 1 0% !important;
+                    }
+                    #eael-img-accordion-309713d .eael-image-accordion-hover:hover:hover .overlay-inner * {
+                        opacity: 1;
+                        visibility: visible;
+                        transform: none;
+                        transition: all .3s .3s;
+                    }
+                </style>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e0c82d9" data-id="e0c82d9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e985b0f elementor-widget elementor-widget-eael-image-accordion" data-id="e985b0f" data-element_type="widget" data-widget_type="eael-image-accordion.default">
+				<div class="elementor-widget-container">
+			    <div class="eael-img-accordion accordion-direction-horizontal eael-img-accordion-horizontal-align-left eael-img-accordion-vertical-align-bottom" id="eael-img-accordion-e985b0f" data-img-accordion-id="e985b0f" data-img-accordion-type="on-hover">
+                    
+            <div class="eael-image-accordion-hover" style="background-image: url(https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-2.jpg);"  tabindex="0">
+            <div class="overlay">
+                <div class="overlay-inner">
+                    <div class="overlay-inner ">
+                        <h2 class="img-accordion-title">DOTA 2 TOURNAMENT</h2>                            <p><p> </p><p>June 4, 2018</p><p>Maecenas tempus, tellus eget condimentum rhoncus, sem quam </p></p>
+                                            </div>
+                </div>
+            </div>
+            </div>
+                </div>
+        <style typr="text/css">
+                    #eael-img-accordion-e985b0f .eael-image-accordion-hover:hover {
+                        flex: 3 1 0% !important;
+                    }
+                    #eael-img-accordion-e985b0f .eael-image-accordion-hover:hover:hover .overlay-inner * {
+                        opacity: 1;
+                        visibility: visible;
+                        transform: none;
+                        transition: all .3s .3s;
+                    }
+                </style>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5d2d33e" data-id="5d2d33e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-819d982 elementor-widget elementor-widget-eael-image-accordion" data-id="819d982" data-element_type="widget" data-widget_type="eael-image-accordion.default">
+				<div class="elementor-widget-container">
+			    <div class="eael-img-accordion accordion-direction-horizontal eael-img-accordion-horizontal-align-left eael-img-accordion-vertical-align-bottom" id="eael-img-accordion-819d982" data-img-accordion-id="819d982" data-img-accordion-type="on-hover">
+                    
+            <div class="eael-image-accordion-hover" style="background-image: url(https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-1.jpg);"  tabindex="0">
+            <div class="overlay">
+                <div class="overlay-inner">
+                    <div class="overlay-inner ">
+                        <h2 class="img-accordion-title">WINNERS ON ESL PRO</h2>                            <p><p> </p><p>June 4, 2018</p><p>Maecenas tempus, tellus eget condimentum rhoncus, sem quam </p></p>
+                                            </div>
+                </div>
+            </div>
+            </div>
+                </div>
+        <style typr="text/css">
+                    #eael-img-accordion-819d982 .eael-image-accordion-hover:hover {
+                        flex: 3 1 0% !important;
+                    }
+                    #eael-img-accordion-819d982 .eael-image-accordion-hover:hover:hover .overlay-inner * {
+                        opacity: 1;
+                        visibility: visible;
+                        transform: none;
+                        transition: all .3s .3s;
+                    }
+                </style>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-aaed719 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aaed719" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-448ba7a" data-id="448ba7a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-30f2c20 elementor-widget elementor-widget-heading" data-id="30f2c20" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><h3 class="edgtf-st-title" style="background: 0px 0px rgb(23, 22, 26); border-style: initial; border-color: initial; border-image: initial; padding: 0px; vertical-align: baseline; outline: 0px; font-size: 45px; line-height: 1.13em; color: rgb(255, 255, 255); font-weight: 700; text-transform: uppercase; font-family: Rubik, sans-serif; text-align: center; white-space: normal;">WATCH LIVE STREAMS</h3></h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-078bdac elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="078bdac" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d5e9309" data-id="d5e9309" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-02dc7d6 e-transform elementor-widget elementor-widget-html" data-id="02dc7d6" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:500,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="124.985px" height="3.411px" viewBox="0 0 124.985 3.411" enable-background="new 0 0 124.985 3.411" xml:space="preserve">
+<polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 "></polygon>
+</svg>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ce543f0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ce543f0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4204e31" data-id="4204e31" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8121524 elementor-widget elementor-widget-eael-simple-menu" data-id="8121524" data-element_type="widget" data-widget_type="eael-simple-menu.default">
+				<div class="elementor-widget-container">
+			<div data-hamburger-icon="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-bars&quot;&gt;&lt;/i&gt;" data-indicator-class="fas fa-angle-down" data-dropdown-indicator-class="fas fa-angle-down" class="eael-simple-menu-container eael-simple-menu-align-left eael-simple-menu-dropdown-align-left preset-1"><ul id="menu-mainmenu2" class="eael-simple-menu eael-simple-menu-dropdown-animate-to-top eael-simple-menu-indicator eael-simple-menu-horizontal"><li id="menu-item-88" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88"><a href="#">TWITCH</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-89"><a href="#">YOUTUBE</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90"><a href="#">MIXER</a></li>
+</ul></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-47118db elementor-skin-carousel elementor-arrows-yes elementor-widget elementor-widget-media-carousel" data-id="47118db" data-element_type="widget" data-settings="{&quot;effect&quot;:&quot;fade&quot;,&quot;skin&quot;:&quot;carousel&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://leebadung.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/h1-streambox-v2-img-1.jpg)">
+
+			
+					</div>
+								</div>
+									</div>
+							</div>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-761fdb1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="761fdb1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ae61d77" data-id="ae61d77" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a769fef elementor-skin-carousel elementor-arrows-yes elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget elementor-widget-media-carousel" data-id="a769fef" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;carousel&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;pagination&quot;:&quot;bullets&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/h1-streambox-v2-img-2.jpg)">
+
+			
+					</div>
+								</div>
+									</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-91a1986" data-id="91a1986" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-180535b elementor-skin-carousel elementor-arrows-yes elementor-pagination-type-bullets elementor-pagination-position-outside elementor-widget elementor-widget-media-carousel" data-id="180535b" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;carousel&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;pagination&quot;:&quot;bullets&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container">
+				<div class="swiper-wrapper">
+											<div class="swiper-slide">
+									<div class="elementor-carousel-image" style="background-image: url(https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/h1-streambox-v2-img-3.jpg)">
+
+			
+					</div>
+								</div>
+									</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b8031d3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b8031d3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ea174dc" data-id="ea174dc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-28b6e0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="28b6e0f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-17a2de7" data-id="17a2de7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-879c957 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="879c957" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="608" height="608" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/h1-img-1.png" class="attachment-2048x2048 size-2048x2048" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7d43a83" data-id="7d43a83" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cd690b7 elementor--h-position-center elementor--v-position-middle elementor-widget elementor-widget-slides" data-id="cd690b7" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;none&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="">
+				<div class="swiper-wrapper elementor-slides">
+										<div class="elementor-repeater-item-41aeb94 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-description">GAME EXPO: WHERE DIGITAL
+WORLDS MEET REAL
+INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-size-sm">VIEW SCHEDULE</div></div></div></div>				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-51f28ec elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="51f28ec" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c6deca7" data-id="c6deca7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a97d4a0 elementor-widget elementor-widget-heading" data-id="a97d4a0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><h3 style="background: 0px 0px rgb(23, 22, 26); border-style: initial; border-color: initial; border-image: initial; padding: 0px; vertical-align: baseline; outline: 0px; font-size: 45px; line-height: 1.13em; color: rgb(255, 255, 255); font-weight: 700; text-transform: uppercase; font-family: Rubik, sans-serif; text-align: center; white-space: normal;">TRENDING MATCHES</h3></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-32654fe e-transform elementor-widget elementor-widget-html" data-id="32654fe" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:500,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="124.985px" height="3.411px" viewBox="0 0 124.985 3.411" enable-background="new 0 0 124.985 3.411" xml:space="preserve">
+<polygon fill="#FFFFFF" points="0,0 124.985,0 124.985,1.121 96.484,1.121 86.944,3.411 38.67,3.411 29.162,1.121 0,1.121 "></polygon>
+</svg>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-632d24d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="632d24d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d60d2b4" data-id="d60d2b4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c7b3f19 elementor-widget elementor-widget-eael-simple-menu" data-id="c7b3f19" data-element_type="widget" data-widget_type="eael-simple-menu.default">
+				<div class="elementor-widget-container">
+			<div data-hamburger-icon="&lt;i aria-hidden=&quot;true&quot; class=&quot;fas fa-bars&quot;&gt;&lt;/i&gt;" data-indicator-class="fas fa-angle-down" data-dropdown-indicator-class="fas fa-angle-down" class="eael-simple-menu-container eael-simple-menu-align-left eael-simple-menu-dropdown-align-left preset-1"><ul id="menu-mainmenu3" class="eael-simple-menu eael-simple-menu-dropdown-animate-to-top eael-simple-menu-indicator eael-simple-menu-horizontal"><li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108"><a href="#">ALL MATCHES</a></li>
+<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109"><a href="#">UPCOMING MATCHES</a></li>
+<li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110"><a href="#">LATEST RESULTS</a></li>
+</ul></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1b29ef2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1b29ef2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6b2c875" data-id="6b2c875" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-30d61e6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="30d61e6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-34084ad" data-id="34084ad" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-aaad519 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="aaad519" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.7 - 20-09-2022 */
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team5-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">TRIARCHY</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-382ab37" data-id="382ab37" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a81e57f elementor-widget elementor-widget-image" data-id="a81e57f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="105" height="150" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/vs_dark.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-ca3dc1a" data-id="ca3dc1a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8a94925 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="8a94925" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team6-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">WARMONGERS</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-4c166c2" data-id="4c166c2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9674051 elementor-widget elementor-widget-text-editor" data-id="9674051" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-b5aafc9 elementor-widget elementor-widget-text-editor" data-id="b5aafc9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<span>all matches</span><span>upcoming matches</span>						</div>
+				</div>
+				<div class="elementor-element elementor-element-0097c28 elementor-widget elementor-widget-text-editor" data-id="0097c28" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>NECROMANCY AMPLIFIER</strong></p><p><span style="font-size: medium;">10th November 2018, 12:00</span></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-0c812e8" data-id="0c812e8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0878ac3 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="0878ac3" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://leebadung.github.io/mywordpress/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fab fa-twitch"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+											</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						watch stream					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b9abda2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b9abda2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4580068" data-id="4580068" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-d1e7b85 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d1e7b85" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-b7edea4" data-id="b7edea4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8c3d1dd elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="8c3d1dd" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team3-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">TEUTON SONS</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-f6193d9" data-id="f6193d9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-884609e elementor-widget elementor-widget-image" data-id="884609e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="105" height="150" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/vs_dark.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-a29455b" data-id="a29455b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-42b10ed elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="42b10ed" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team4-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">ELDRITCH</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-5605496" data-id="5605496" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fa42fdd elementor-widget elementor-widget-text-editor" data-id="fa42fdd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-aa84440 elementor-widget elementor-widget-text-editor" data-id="aa84440" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<span>all matches</span><span>upcoming matches</span>						</div>
+				</div>
+				<div class="elementor-element elementor-element-ab62e9f elementor-widget elementor-widget-text-editor" data-id="ab62e9f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>LEGENDARY BATTLES</strong></p><p><span style="font-size: medium;">10th November 2018, 12:00</span></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-00c0260" data-id="00c0260" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f14664b elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="f14664b" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fab fa-twitch"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+											</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						watch stream					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4cb767d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4cb767d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-425915f" data-id="425915f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-ad8d8e3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ad8d8e3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-3ad6b3a" data-id="3ad6b3a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7c5887d elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7c5887d" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team1-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">KAIJU RED</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-0ea8e09" data-id="0ea8e09" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f6f9cb0 elementor-widget elementor-widget-image" data-id="f6f9cb0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="105" height="150" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/vs_dark.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-67dc6f3" data-id="67dc6f3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7e1523d elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7e1523d" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team2-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">LIONHEARTS</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-8ac9152" data-id="8ac9152" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4d78597 elementor-widget elementor-widget-text-editor" data-id="4d78597" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-321f83e elementor-widget elementor-widget-text-editor" data-id="321f83e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<span>all matches</span><span>upcoming matches</span>						</div>
+				</div>
+				<div class="elementor-element elementor-element-e752a53 elementor-widget elementor-widget-text-editor" data-id="e752a53" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>BATTLE CREEK ONSLAUGHT</strong></p><p><span style="font-size: medium;">10th November 2018, 12:00</span></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-1da8659" data-id="1da8659" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ddea2e4 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="ddea2e4" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fab fa-twitch"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+											</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						watch stream					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d6cfe68 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d6cfe68" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-441e5b1" data-id="441e5b1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-4777ae3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4777ae3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-8e82a11" data-id="8e82a11" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-73fb3f7 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="73fb3f7" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/team7-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">HACKSAW</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-1da135c" data-id="1da135c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c7c8fd5 elementor-widget elementor-widget-image" data-id="c7c8fd5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="105" height="150" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/vs_finished.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-d35fca1" data-id="d35fca1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4e24a4b elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4e24a4b" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team1-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">KAIJU RED</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-f7a380d" data-id="f7a380d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8024d67 elementor-widget elementor-widget-text-editor" data-id="8024d67" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-0395a8e elementor-widget elementor-widget-text-editor" data-id="0395a8e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<span>all matches</span><span>upcoming matches</span>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6fe831d elementor-widget elementor-widget-text-editor" data-id="6fe831d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>NAY CORRAL GUNDOWN</strong></p><p><span style="font-size: medium;">10th November 2018, 12:00</span></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-d70aa77" data-id="d70aa77" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-00c42a0 elementor-widget elementor-widget-text-editor" data-id="00c42a0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>10:15</strong></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://leebadung.github.io/mywordpress/demo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Top 5 game nên chơi trên Steam</title>
+		<link>https://leebadung.github.io/mywordpress/top-5-game-nen-choi-tren-steam/</link>
+					<comments>https://leebadung.github.io/mywordpress/top-5-game-nen-choi-tren-steam/#respond</comments>
+		
+		<dc:creator><![CDATA[LeBaDung]]></dc:creator>
+		<pubDate>Wed, 17 Aug 2022 09:43:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://leebadung.github.io/mywordpress/?p=5</guid>
+
+					<description><![CDATA[Brawlhalla Brawlhalla là một trò chơi chiến đấu 2D miễn phí được phát triển bởi Blue Mammoth Games cho Microsoft Windows, macOS, PlayStation 4, Xbox One, Nintendo Switch, Android và iOS, với đầy đủ tính năng chơi chéo trên tất cả các nền tảng   Trong hầu hết các chế độ chơi của Brawlhalla, mục [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2><strong>Brawlhalla</strong></h2>
+
+
+<ul>
+<li>Brawlhalla là một trò chơi chiến đấu 2D miễn phí được phát triển bởi Blue Mammoth Games cho Microsoft Windows, macOS, PlayStation 4, Xbox One, Nintendo Switch, Android và iOS, với đầy đủ tính năng chơi chéo trên tất cả các nền tảng</li>
+</ul>
+
+
+<figure class="wp-block-image size-full"><img width="1600" height="800" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/615829.jpg" alt="" class="wp-image-8"/></figure>
+
+
+<p> </p>
+<ul>
+<li>Trong hầu hết các chế độ chơi của Brawlhalla, mục tiêu là hạ gục đối thủ khỏi sân khấu, (vượt qua biên giới của trò chơi là bốn chiều của màn hình) có thể so sánh với Super Smash Bros. Điều này có thể được thực hiện bằng cách gây sát thương liên tục. Thiệt hại có thể được nhìn thấy trên màn hình màu xung quanh biểu tượng nhân vật của đối thủ, chuyển từ trắng sang đỏ sang đen khi người chơi tiếp tục dính đòn. Màu càng gần với màu đỏ, người chơi sẽ bị đánh bật trở lại càng xa, cho đến khi cuối cùng bị loại. Nếu bị văng khỏi sân khấu sẽ khiến người chơi mất mạng. Người chơi cuối cùng đứng (người còn ít nhất một mạng sống) hoặc người chơi có nhiều điểm nhất sẽ thắng trận đấu.</li>
+<li>Cấu hình tối thiểu:
+<ul>
+<li><strong>Memory:</strong> 2 GB RAM</li>
+<li><strong>Storage:</strong> 800 MB available space</li>
+</ul>
+</li>
+<li>Cấu hình khuyến nghị:
+<ul>
+<li><strong>Memory:</strong> 4 GB RAM</li>
+<li><strong>Storage:</strong> 2 GB available space</li>
+<li><strong>Network:</strong> Broadband Internet connection</li>
+</ul>
+</li>
+</ul>
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Brawlhalla Gameplay Trailer - the Free to Play Fighting Game" width="980" height="551" src="https://www.youtube.com/embed/qgvdPJzUHgM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2><strong>Paladins</strong></h2>
+
+
+
+<ul><li>Paladins một cái tên chưa bao giờ ngừng &#8220;hot&#8221; khi bị mang lên bàn cân so sánh với tựa game <a rel="noreferrer noopener" href="https://www.thegioididong.com/game-app/overwatch-234742" target="_blank">Overwatch</a> lừng danh. Không để giới <a rel="noreferrer noopener" href="https://www.thegioididong.com/game-app/game-thu-la-gi-tuyen-thu-game-lieu-co-la-mot-nghe-hap-dan-1352510" target="_blank">game thủ</a> thất vọng, Paladins đã nhanh chóng tạo nên dấu ấn mạnh mẽ khi mang đến cơ chế chơi vô cùng thú vị. Sở hữu một<strong> </strong>dàn hero cực chất với &#8220;muôn màu muôn vẻ&#8221; các loại khả năng<strong> </strong>góp phần tạo nên hương vị mới trong làng <a rel="noreferrer noopener" href="https://www.thegioididong.com/game-app/top-nhung-game-ban-sung-online-pc-nhieu-nguoi-choi-nhat-1344661" target="_blank">game bắn súng</a>.</li></ul>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1280" height="720" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/maxresdefault.jpg" alt="" class="wp-image-11"/></figure>
+
+
+
+<ul><li>Game cho phép người chơi toàn quyền quyết định phong cách chơi của mình. Bạn có thể là một tay súng &#8220;hổ báo&#8221; cầm những &#8220;đồ chơi&#8221; hạng nặng đi nhổ cỏ tận gốc bọn địch hoặc là tay sát thủ ẩn nấp bắn tỉa từ xa. Đương đầu với các trận đấu bom đạn kịch liệt, cùng đồng đội chinh chiến băng qua mọi bão táp chông gai, còn gì tuyệt vời hơn thế nữa? Bỏ lỡ Paladins là bỏ lỡ tuyệt phẩm <a rel="noreferrer noopener" href="https://www.thegioididong.com/game-app/game-fps-la-gi-lich-su-phat-trien-va-cac-diem-dac-trung-1356984" target="_blank">game FPS</a> đấy nhé! </li><li>Cấu hình tối thiểu:<ul><li><strong>OS:</strong> Windows 7 64-bit or newer</li></ul><ul><li><strong>Processor:</strong> Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz</li></ul><ul><li><strong>Memory:</strong> 4 GB RAM</li></ul><ul><li><strong>Graphics:</strong> Nvidia GeForce 8800 GT</li></ul><ul><li><strong>Storage:</strong> 30 GB available space</li></ul><ul><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul></li><li>Cấu hình khuyến nghị:<ul><li><strong>OS:</strong> Windows 8/10 64-bit (latest Service Pack)</li><li><strong>Processor:</strong> Intel Core i5-750, 2.67 GHz / AMD Phenom II X4 965, 3.4 GHz</li><li><strong>Memory:</strong> 6 GB RAM</li><li><strong>Graphics:</strong> Nvidia GeForce GTX 660 or ATI Radeon HD 7950</li><li><strong>Network:</strong> Broadband Internet connection</li><li><strong>Storage:</strong> 30 GB available space</li></ul></li></ul>
+
+
+
+<ul><li>Game cho phép người chơi toàn quyền quyết định phong cách chơi của mình. Bạn có thể là một tay súng &#8220;hổ báo&#8221; cầm những &#8220;đồ chơi&#8221; hạng nặng đi nhổ cỏ tận gốc bọn địch hoặc là tay sát thủ ẩn nấp bắn tỉa từ xa. Đương đầu với các trận đấu bom đạn kịch liệt, cùng đồng đội chinh chiến băng qua mọi bão táp chông gai, còn gì tuyệt vời hơn thế nữa? Bỏ lỡ Paladins là bỏ lỡ tuyệt phẩm <a rel="noreferrer noopener" href="https://www.thegioididong.com/game-app/game-fps-la-gi-lich-su-phat-trien-va-cac-diem-dac-trung-1356984" target="_blank">game FPS</a> đấy nhé! </li><li>Cấu hình tối thiểu:<ul><li><strong>OS:</strong> Windows 7 64-bit or newer</li></ul><ul><li><strong>Processor:</strong> Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz</li></ul><ul><li><strong>Memory:</strong> 4 GB RAM</li></ul><ul><li><strong>Graphics:</strong> Nvidia GeForce 8800 GT</li></ul><ul><li><strong>Storage:</strong> 30 GB available space</li></ul><ul><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul></li><li>Cấu hình khuyến nghị:<ul><li><strong>OS:</strong> Windows 8/10 64-bit (latest Service Pack)</li><li><strong>Processor:</strong> Intel Core i5-750, 2.67 GHz / AMD Phenom II X4 965, 3.4 GHz</li><li><strong>Memory:</strong> 6 GB RAM</li><li><strong>Graphics:</strong> Nvidia GeForce GTX 660 or ATI Radeon HD 7950</li><li><strong>Network:</strong> Broadband Internet connection</li><li><strong>Storage:</strong> 30 GB available space</li></ul></li></ul>
+
+
+
+<ul><li>Game cho phép người chơi toàn quyền quyết định phong cách chơi của mình. Bạn có thể là một tay súng &#8220;hổ báo&#8221; cầm những &#8220;đồ chơi&#8221; hạng nặng đi nhổ cỏ tận gốc bọn địch hoặc là tay sát thủ ẩn nấp bắn tỉa từ xa. Đương đầu với các trận đấu bom đạn kịch liệt, cùng đồng đội chinh chiến băng qua mọi bão táp chông gai, còn gì tuyệt vời hơn thế nữa? Bỏ lỡ Paladins là bỏ lỡ tuyệt phẩm <a rel="noreferrer noopener" href="https://www.thegioididong.com/game-app/game-fps-la-gi-lich-su-phat-trien-va-cac-diem-dac-trung-1356984" target="_blank">game FPS</a> đấy nhé! </li><li>Cấu hình tối thiểu:<ul><li><strong>OS:</strong> Windows 7 64-bit or newer</li></ul><ul><li><strong>Processor:</strong> Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz</li></ul><ul><li><strong>Memory:</strong> 4 GB RAM</li></ul><ul><li><strong>Graphics:</strong> Nvidia GeForce 8800 GT</li></ul><ul><li><strong>Storage:</strong> 30 GB available space</li></ul><ul><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul></li><li>Cấu hình khuyến nghị:<ul><li><strong>OS:</strong> Windows 8/10 64-bit (latest Service Pack)</li><li><strong>Processor:</strong> Intel Core i5-750, 2.67 GHz / AMD Phenom II X4 965, 3.4 GHz</li><li><strong>Memory:</strong> 6 GB RAM</li><li><strong>Graphics:</strong> Nvidia GeForce GTX 660 or ATI Radeon HD 7950</li><li><strong>Network:</strong> Broadband Internet connection</li><li><strong>Storage:</strong> 30 GB available space</li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul></li></ul>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Paladins - Launch Trailer | PS4" width="980" height="551" src="https://www.youtube.com/embed/ui-QYLktfWA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2><strong>NARAKA: BLADEPOINT</strong></h2>
+
+
+
+<ul><li>Thiết kế bản đồ dọc, kỹ năng nhân vật thực sự đa dạng và hệ thống hồi sinh hoàn toàn mới. Tận hưởng cảm giác hồi hộp của những lưỡi dao va chạm và những mũi tên bay trong chiến trường của NARAKA: BLADEPOINT!</li><li>Thiết kế bản đồ dọc, kỹ năng nhân vật thực sự đa dạng và hệ thống hồi sinh hoàn toàn mới. Tận hưởng cảm giác hồi hộp của những lưỡi dao va chạm và những mũi tên bay trong chiến trường của NARAKA: BLADEPOINT!</li></ul>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1710" height="900" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/Nakara-via-24-Entertainment.webp" alt="" class="wp-image-12"/></figure>
+
+
+
+<ul><li>Các anh hùng từ khắp nơi trên thế giới tụ tập tại Đảo Morus, chỉ có chiến đấu, chỉ có cái chết hoặc sự sống. Chỉ có một người sống sót. Khám phá một chiến trường rộng lớn, bí ẩn, độc đáo, ngoạn mục. Tìm hiểu sự thật về thế giới của NARAKA và những trận chiến bất tận.</li><li>Cấu hình tối thiểu:<ul><li><strong>OS:</strong> Windows 7 64-bit or newer</li><li><strong>Processor:</strong> Intel i5 4th generation or AMD FX 6300 or equivalent</li><li><strong>Memory:</strong> 8 GB RAM</li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 750TI or equivalent</li><li><strong>DirectX:</strong> Version 11</li><li><strong>Network:</strong> Broadband Internet connection</li><li><strong>Storage:</strong> 20 GB available space</li></ul></li><li>Cấu hình khuyến nghị:<ul><li><strong>OS:</strong> Windows 10 64-bit</li><li><strong>Processor:</strong> Intel i7 7th generation or equivalent</li><li><strong>Memory:</strong> 16 GB RAM</li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 6G or equivalent</li><li><strong>DirectX:</strong> Version 11</li><li><strong>Network:</strong> Broadband Internet connection</li><li><strong>Storage:</strong> 20 GB available space</li></ul></li></ul>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Naraka: Bladepoint Official Gameplay Trailer" width="980" height="551" src="https://www.youtube.com/embed/Q_uBBXiqL1s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2><strong>Gang beasts</strong></h2>
+
+
+
+<ul><li><strong>Gang Beasts</strong> là tựa <a href="https://download.com.vn/game-phieu-luu">game phiêu lưu</a> <a href="https://download.com.vn/game-hanh-dong">hành động</a> khá lạ với những màn chiến đấu tổ đội kỳ quái, các nhân vật được tạo hình độc đáo, gameplay nhanh trong môi trường độc hại và được đặt giữa bối cảnh những con phố của Beef City.</li></ul>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="1600" height="900" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/gang_beasts_image-1.jpg" alt="" class="wp-image-16"/></figure>
+
+
+
+<ul><li>Gameplay của <em><strong>Gang Beasts PC</strong></em> bao gồm 8 màn chơi đối kháng online đặc sắc. Lối chơi đặc trưng bởi những pha hành động quen thuộc như đấm, đá đối thủ cho đến khi ngã ngục trong những bàn chơi đầy thử thách. Tuy nhiên, đối thủ của bạn không hoàn toàn đứng im, họ vẫn có khả năng phòng thủ và tấn công ngược trở lại khi có cơ hội.</li><li><strong>Chơi game Gang Beasts trên máy tính</strong> để trải nghiệm những màn chiến đấu nhịp độ nhanh, thậm chí là mang hơi hướng bạo lực nhưng được tạo hình ngộ nghĩnh nhằm giảm bớt sự căng thẳng của trò chơi. Bạn sẽ được chiêm ngưỡng những màn đấm đá, quăng đối thủ vào những chiếc máy công suất lớn, ném vào lò đốt hay quạt công nghiệp khổng lồ.</li><li>Cấu hình tối thiểu:<ul><li><strong>OS:</strong> Windows 7</li><li><strong>Processor:</strong> 2nd generation Core i3, AMD A6, or higher</li><li><strong>Memory:</strong> 4 GB RAM</li><li><strong>Graphics:</strong> Nvidia 8800 GT, AMD 5670, Intel HD 3000</li><li><strong>Network:</strong> Broadband Internet connection</li><li><strong>Storage:</strong> 2 GB available space</li><li><strong>Additional Notes:</strong> DirectX 10 or higher</li></ul></li><li>Cấu hình khuyến nghị:</li><li><strong>OS:</strong> Windows 10</li><li><strong>Processor:</strong> Core i5</li><li><strong>Memory:</strong> 8 GB RAM</li><li><strong>Graphics:</strong> SM4 1GB VRAM</li><li><strong>Network:</strong> Broadband Internet connection</li><li><strong>Storage:</strong> 2 GB available space</li><li><strong>Additional Notes:</strong> DirectX 10 or higher</li></ul>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Gang Beasts - Gameplay Trailer | PS4" width="980" height="551" src="https://www.youtube.com/embed/Vz0BriND6pE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2><strong>Goose Goose Duck</strong></h2>
+
+
+
+<ul><li>Nếu bạn yêu thích những trò chơi team mang tính suy luận, chắc chắn sẽ không thể nào bỏ qua Goose Goose Duck. Game có lối chơi hành động lén lút và lừa đảo nhưng với phong cách vui nhộn. Bạn có thể nhớ đến 2 tựa game đình đám khác như Among Us hay Ma Sói. Với hơn 25 vai trò khác nhau, phân ra cho 3 phe, hãy thực hiện nhiệm vụ riêng của mình để giành chiến thắng.</li></ul>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/OIP.jpg" alt="" class="wp-image-19" width="645" height="369"/></figure>
+
+
+
+<ul><li>Đến với Goose Goose Duck, bạn sẽ được random nhập vai thành ngỗng (Goose), vịt (Duck) hoặc phe trung lập. Những người chơi sẽ cùng thực hiện những nhiệm vụ của mình tại một số vị trí trên bản đồ.</li><li>Với ngỗng (Goose), bạn sẽ thuộc phe tốt. Bạn cần hoàn thành nhiệm vụ và tìm kiếm những con ngỗng do vịt (Duck) hoặc phe thức ba giả mạo. Mọi người sẽ bỏ phiếu để khai trừ vịt ra khỏi bản đồ.</li><li>Với vịt (Duck), bạn sẽ thuộc phe ác. Bạn phải trà trộn, ẩn nấp và xử lý hết những con ngỗng và phe thứ ba trên bản đồ</li><li>Với những nhân vật thuộc phe trung lập, bạn sẽ chiến thắng một mình. Cũng giống như vịt, bạn có thể thực hiện nhiệm vụ và giết ngỗng hoặc vịt để giành chiến thắng.</li><li>Trò chơi sẽ kết thúc khi ngỗng hoàn thành hết nhiệm vụ/ ngỗng tìm ra được hết vịt/ vịt tiêu diệt hết ngỗng/ phe thứ ba hoàn thành nhiệm vụ.</li><li>Cấu hình tối thiểu:</li><li><strong>OS:</strong> Windows 7<ul><li><strong>Processor:</strong> Intel Core2 Duo 2.4ghz+</li></ul><ul><li><strong>Memory:</strong> 2 GB RAM</li></ul><ul><li><strong>Graphics:</strong> Integrated Graphics</li></ul><ul><li><strong>DirectX:</strong> Version 9.0</li></ul><ul><li><strong>Network:</strong> Broadband Internet connection</li></ul><ul><li><strong>Storage:</strong> 400 MB available space</li></ul><ul><li><strong>Additional Notes:</strong> Proximity Chat Req 10Mbps Up/Down</li></ul></li><li>Cấu hình khuyến nghị:<ul><li><strong>OS:</strong> Windows 10</li></ul><ul><li><strong>Processor:</strong> Intel Core i-5 2.8Ghz</li></ul><ul><li><strong>Memory:</strong> 4 GB RAM</li></ul><ul><li><strong>Graphics:</strong> Nvidia 600 Series GPU or Equivalent</li></ul><ul><li><strong>DirectX:</strong> Version 11</li></ul><ul><li><strong>Network:</strong> Broadband Internet connection</li></ul><ul><li><strong>Storage:</strong> 500 MB available space</li></ul><ul><li><strong>Additional Notes:</strong> Proximity Chat Req 10Mbps Up/Down</li></ul></li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://leebadung.github.io/mywordpress/top-5-game-nen-choi-tren-steam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://leebadung.github.io/mywordpress/hello-world/</link>
+					<comments>https://leebadung.github.io/mywordpress/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[LeBaDung]]></dc:creator>
+		<pubDate>Wed, 17 Aug 2022 07:10:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://leebadung.github.io/mywordpress/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://leebadung.github.io/mywordpress/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
