@@ -10,7 +10,7 @@
 <channel>
 	<title>LeBaDung &#8211; My WordPress</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/lebadung/feed/" rel="self" type="application/rss+xml" />
-	<link>https://leebadung.github.io/mywordpress</link>
+	<link>http://leebadung.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 19 Oct 2022 09:53:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Flycam F11 pro 4k</title>
-		<link>https://leebadung.github.io/mywordpress/flycam-f11-pro-4k/</link>
-					<comments>https://leebadung.github.io/mywordpress/flycam-f11-pro-4k/#respond</comments>
+		<link>http://leebadung.github.io/mywordpress/flycam-f11-pro-4k/</link>
+					<comments>http://leebadung.github.io/mywordpress/flycam-f11-pro-4k/#respond</comments>
 		
 		<dc:creator><![CDATA[LeBaDung]]></dc:creator>
 		<pubDate>Wed, 19 Oct 2022 09:00:58 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://leebadung.github.io/mywordpress/?p=620</guid>
+		<guid isPermaLink="false">http://leebadung.github.io/mywordpress/?p=620</guid>
 
 					<description><![CDATA[Flycam F11 pro 4k 1) Mô tả sản phẩm Flycam F11 pro 4k Flycam F11S 4K 2021&#160; Flycam F11S4K 2021 bay xa 3km vừa được hãng SJRC tung ra thị trường . Thừa hưởng thành công vang dội của những thế hệ F11 trước đó Flycam F11s 3km đã có những nâng cấp vượt trội [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -41,7 +41,7 @@
 
 <div class="wp-container-2 wp-block-columns">
 <div class="wp-container-1 wp-block-column" style="flex-basis:100%">
-<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="1024" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/10/Flycam-F11-pro-4k_1-1.jpg" alt="Flycam F11 pro 4K" class="wp-image-622"/><figcaption><strong>Flycam F11 pro 4K</strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="1024" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/10/Flycam-F11-pro-4k_1-1.jpg" alt="Flycam F11 pro 4K" class="wp-image-622"/><figcaption><strong>Flycam F11 pro 4K</strong></figcaption></figure>
 </div>
 </div>
 
@@ -70,7 +70,7 @@
 
 <div class="wp-container-6 wp-block-columns">
 <div class="wp-container-5 wp-block-column" style="flex-basis:100%">
-<figure class="wp-block-image size-full"><img loading="lazy" width="764" height="1280" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/10/Flycam-F11-pro-4k_2.jpg" alt="Flycam F11 pro 4K" class="wp-image-623"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="764" height="1280" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/10/Flycam-F11-pro-4k_2.jpg" alt="Flycam F11 pro 4K" class="wp-image-623"/></figure>
 </div>
 </div>
 
@@ -82,7 +82,7 @@
 
 <div class="wp-container-8 wp-block-columns">
 <div class="wp-container-7 wp-block-column" style="flex-basis:100%">
-<figure class="wp-block-image size-full"><img loading="lazy" width="800" height="500" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/10/Flycam-F11-pro-4k_3.jpg" alt="Flycam F11 pro 4K" class="wp-image-624"/><figcaption><strong>Flycam F11 pro 4K</strong></figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="800" height="500" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/10/Flycam-F11-pro-4k_3.jpg" alt="Flycam F11 pro 4K" class="wp-image-624"/><figcaption><strong>Flycam F11 pro 4K</strong></figcaption></figure>
 </div>
 </div>
 
@@ -120,7 +120,7 @@
 
 <div class="wp-container-10 wp-block-columns">
 <div class="wp-container-9 wp-block-column" style="flex-basis:100%">
-<figure class="wp-block-image size-full"><img loading="lazy" width="1000" height="1184" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/10/Flycam-F11-pro-4k_4.webp" alt="Flycam F11 pro 4k" class="wp-image-625"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1000" height="1184" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/10/Flycam-F11-pro-4k_4.webp" alt="Flycam F11 pro 4k" class="wp-image-625"/></figure>
 </div>
 </div>
 
@@ -132,20 +132,20 @@
 <p>Thừa hưởng những ưu điểm của Thế hệ F11 4K Pro đã quá thành công trước đó. F11s 4K Pro 2021 tiếp tục có sự nâng cấp về khoảng cách bay lên tới 3 Km. Trước đây F11 4K Pro được cho là vô địch trong tầm giá 4 triệu với tất cả những gì nó mang lại. Tuy nhiên với tầm bay 1500m và khoảng cách điều khiển 800m thì nhiều anh em vẫn muốn có một khoảng cách bay xa hơn nữa. Và ở sản phẩm F11s 4K Pro 2021 này SJRC đã làm thỏa mãn được mong muốn này. Tất nhiên giá thành của nó cũng tăng lên khoảng 600k. Theo chúng tôi việc tăng giá này là hợp lý khi khoảng cách bay và điểu khiển được tăng lên gấp bội so với F11 4K Pro.</p>
 <p><iframe loading="lazy" class="giphy-embed" src="https://giphy.com/embed/tqLmOziFnB5nO" width="480" height="240" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>]]></content:encoded>
 					
-					<wfw:commentRss>https://leebadung.github.io/mywordpress/flycam-f11-pro-4k/feed/</wfw:commentRss>
+					<wfw:commentRss>http://leebadung.github.io/mywordpress/flycam-f11-pro-4k/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Demo</title>
-		<link>https://leebadung.github.io/mywordpress/demo/</link>
-					<comments>https://leebadung.github.io/mywordpress/demo/#respond</comments>
+		<link>http://leebadung.github.io/mywordpress/demo/</link>
+					<comments>http://leebadung.github.io/mywordpress/demo/#respond</comments>
 		
 		<dc:creator><![CDATA[LeBaDung]]></dc:creator>
 		<pubDate>Wed, 07 Sep 2022 08:58:51 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://leebadung.github.io/mywordpress/?p=35</guid>
+		<guid isPermaLink="false">http://leebadung.github.io/mywordpress/?p=35</guid>
 
 					<description><![CDATA[YOU SPEAK OF JUSTICE?BUY THEMEREPEL THE INVALDERS!BUY THEMEONWARDS TO GLORY!BUY THEME AN&#160;OP&#160;THEME JUST FOR GAMERS Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="35" class="elementor elementor-35">
@@ -217,7 +217,7 @@
 				<div class="elementor-widget-container">
 			    <div class="eael-img-accordion accordion-direction-horizontal eael-img-accordion-horizontal-align-left eael-img-accordion-vertical-align-bottom" id="eael-img-accordion-309713d" data-img-accordion-id="309713d" data-img-accordion-type="on-hover">
                     
-            <div class="eael-image-accordion-hover" style="background-image: url(https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-3.jpg);"  tabindex="0">
+            <div class="eael-image-accordion-hover" style="background-image: url(http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-3.jpg);"  tabindex="0">
             <div class="overlay">
                 <div class="overlay-inner">
                     <div class="overlay-inner ">
@@ -247,7 +247,7 @@
 				<div class="elementor-widget-container">
 			    <div class="eael-img-accordion accordion-direction-horizontal eael-img-accordion-horizontal-align-left eael-img-accordion-vertical-align-bottom" id="eael-img-accordion-e985b0f" data-img-accordion-id="e985b0f" data-img-accordion-type="on-hover">
                     
-            <div class="eael-image-accordion-hover" style="background-image: url(https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-2.jpg);"  tabindex="0">
+            <div class="eael-image-accordion-hover" style="background-image: url(http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-2.jpg);"  tabindex="0">
             <div class="overlay">
                 <div class="overlay-inner">
                     <div class="overlay-inner ">
@@ -277,7 +277,7 @@
 				<div class="elementor-widget-container">
 			    <div class="eael-img-accordion accordion-direction-horizontal eael-img-accordion-horizontal-align-left eael-img-accordion-vertical-align-bottom" id="eael-img-accordion-819d982" data-img-accordion-id="819d982" data-img-accordion-type="on-hover">
                     
-            <div class="eael-image-accordion-hover" style="background-image: url(https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-1.jpg);"  tabindex="0">
+            <div class="eael-image-accordion-hover" style="background-image: url(http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-1.jpg);"  tabindex="0">
             <div class="overlay">
                 <div class="overlay-inner">
                     <div class="overlay-inner ">
@@ -342,11 +342,11 @@
 				</div>
 				<div class="elementor-element elementor-element-47118db elementor-skin-carousel elementor-arrows-yes elementor-widget elementor-widget-media-carousel" data-id="47118db" data-element_type="widget" data-settings="{&quot;effect&quot;:&quot;fade&quot;,&quot;skin&quot;:&quot;carousel&quot;,&quot;show_arrows&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="media-carousel.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://leebadung.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
+			<link rel="stylesheet" href="http://leebadung.github.io/mywordpress/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
 			<div class="elementor-main-swiper swiper-container">
 				<div class="swiper-wrapper">
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image" style="background-image: url(https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/h1-streambox-v2-img-1.jpg)">
+									<div class="elementor-carousel-image" style="background-image: url(http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/h1-streambox-v2-img-1.jpg)">
 
 			
 					</div>
@@ -366,7 +366,7 @@
 			<div class="elementor-main-swiper swiper-container">
 				<div class="swiper-wrapper">
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image" style="background-image: url(https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/h1-streambox-v2-img-2.jpg)">
+									<div class="elementor-carousel-image" style="background-image: url(http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/h1-streambox-v2-img-2.jpg)">
 
 			
 					</div>
@@ -386,7 +386,7 @@
 			<div class="elementor-main-swiper swiper-container">
 				<div class="swiper-wrapper">
 											<div class="swiper-slide">
-									<div class="elementor-carousel-image" style="background-image: url(https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/h1-streambox-v2-img-3.jpg)">
+									<div class="elementor-carousel-image" style="background-image: url(http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/h1-streambox-v2-img-3.jpg)">
 
 			
 					</div>
@@ -415,7 +415,7 @@
 								<div class="elementor-element elementor-element-879c957 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-image" data-id="879c957" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.8 - 02-10-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="608" height="608" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/h1-img-1.png" class="attachment-2048x2048 size-2048x2048" alt="" loading="lazy" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="608" height="608" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/h1-img-1.png" class="attachment-2048x2048 size-2048x2048" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -486,7 +486,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 								<div class="elementor-element elementor-element-aaad519 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="aaad519" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.8 - 02-10-2022 */
-.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team5-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">TRIARCHY</h3></div></div>		</div>
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team5-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">TRIARCHY</h3></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -494,7 +494,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-a81e57f elementor-widget elementor-widget-image" data-id="a81e57f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="105" height="150" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/vs_dark.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+															<img width="105" height="150" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/vs_dark.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -502,7 +502,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-8a94925 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="8a94925" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team6-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">WARMONGERS</h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team6-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">WARMONGERS</h3></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -526,7 +526,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-0878ac3 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="0878ac3" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://leebadung.github.io/mywordpress/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+			<link rel="stylesheet" href="http://leebadung.github.io/mywordpress/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
 				<span class="elementor-icon elementor-animation-" >
 				<i aria-hidden="true" class="fab fa-twitch"></i>				</span>
@@ -560,7 +560,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-8c3d1dd elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="8c3d1dd" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team3-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">TEUTON SONS</h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team3-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">TEUTON SONS</h3></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -568,7 +568,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-884609e elementor-widget elementor-widget-image" data-id="884609e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="105" height="150" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/vs_dark.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+															<img width="105" height="150" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/vs_dark.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -576,7 +576,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-42b10ed elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="42b10ed" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team4-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">ELDRITCH</h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team4-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">ELDRITCH</h3></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -634,7 +634,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7c5887d elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7c5887d" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team1-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">KAIJU RED</h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team1-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">KAIJU RED</h3></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -642,7 +642,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f6f9cb0 elementor-widget elementor-widget-image" data-id="f6f9cb0" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="105" height="150" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/vs_dark.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+															<img width="105" height="150" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/vs_dark.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -650,7 +650,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7e1523d elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7e1523d" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team2-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">LIONHEARTS</h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team2-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">LIONHEARTS</h3></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -708,7 +708,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-73fb3f7 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="73fb3f7" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/team7-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">HACKSAW</h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/team7-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">HACKSAW</h3></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -716,7 +716,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-c7c8fd5 elementor-widget elementor-widget-image" data-id="c7c8fd5" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="105" height="150" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/vs_finished.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+															<img width="105" height="150" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/vs_finished.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -724,7 +724,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4e24a4b elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4e24a4b" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team1-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">KAIJU RED</h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="252" height="332" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/09/team1-banner.png" class="attachment-large size-large" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">KAIJU RED</h3></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -761,20 +761,20 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://leebadung.github.io/mywordpress/demo/feed/</wfw:commentRss>
+					<wfw:commentRss>http://leebadung.github.io/mywordpress/demo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Top 5 game nên chơi trên Steam</title>
-		<link>https://leebadung.github.io/mywordpress/top-5-game-nen-choi-tren-steam/</link>
-					<comments>https://leebadung.github.io/mywordpress/top-5-game-nen-choi-tren-steam/#respond</comments>
+		<link>http://leebadung.github.io/mywordpress/top-5-game-nen-choi-tren-steam/</link>
+					<comments>http://leebadung.github.io/mywordpress/top-5-game-nen-choi-tren-steam/#respond</comments>
 		
 		<dc:creator><![CDATA[LeBaDung]]></dc:creator>
 		<pubDate>Wed, 17 Aug 2022 09:43:52 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://leebadung.github.io/mywordpress/?p=5</guid>
+		<guid isPermaLink="false">http://leebadung.github.io/mywordpress/?p=5</guid>
 
 					<description><![CDATA[Brawlhalla Brawlhalla là một trò chơi chiến đấu 2D miễn phí được phát triển bởi Blue Mammoth Games cho Microsoft Windows, macOS, PlayStation 4, Xbox One, Nintendo Switch, Android và iOS, với đầy đủ tính năng chơi chéo trên tất cả các nền tảng   Trong hầu hết các chế độ chơi của Brawlhalla, mục [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -786,7 +786,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 </ul>
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1600" height="800" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/615829.jpg" alt="" class="wp-image-8"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1600" height="800" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/615829.jpg" alt="" class="wp-image-8"/></figure>
 
 
 <p> </p>
@@ -822,7 +822,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1280" height="720" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/maxresdefault.jpg" alt="" class="wp-image-11"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1280" height="720" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/maxresdefault.jpg" alt="" class="wp-image-11"/></figure>
 
 
 
@@ -852,7 +852,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1710" height="900" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/Nakara-via-24-Entertainment.webp" alt="" class="wp-image-12"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1710" height="900" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/Nakara-via-24-Entertainment.webp" alt="" class="wp-image-12"/></figure>
 
 
 
@@ -874,7 +874,7 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1600" height="900" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/gang_beasts_image-1.jpg" alt="" class="wp-image-16"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1600" height="900" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/gang_beasts_image-1.jpg" alt="" class="wp-image-16"/></figure>
 
 
 
@@ -896,34 +896,34 @@ INNOVATION</div><div  class="elementor-button elementor-slide-button elementor-s
 
 
 
-<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/OIP.jpg" alt="" class="wp-image-19" width="645" height="369"/></figure>
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/OIP.jpg" alt="" class="wp-image-19" width="645" height="369"/></figure>
 
 
 
 <ul><li>Đến với Goose Goose Duck, bạn sẽ được random nhập vai thành ngỗng (Goose), vịt (Duck) hoặc phe trung lập. Những người chơi sẽ cùng thực hiện những nhiệm vụ của mình tại một số vị trí trên bản đồ.</li><li>Với ngỗng (Goose), bạn sẽ thuộc phe tốt. Bạn cần hoàn thành nhiệm vụ và tìm kiếm những con ngỗng do vịt (Duck) hoặc phe thức ba giả mạo. Mọi người sẽ bỏ phiếu để khai trừ vịt ra khỏi bản đồ.</li><li>Với vịt (Duck), bạn sẽ thuộc phe ác. Bạn phải trà trộn, ẩn nấp và xử lý hết những con ngỗng và phe thứ ba trên bản đồ</li><li>Với những nhân vật thuộc phe trung lập, bạn sẽ chiến thắng một mình. Cũng giống như vịt, bạn có thể thực hiện nhiệm vụ và giết ngỗng hoặc vịt để giành chiến thắng.</li><li>Trò chơi sẽ kết thúc khi ngỗng hoàn thành hết nhiệm vụ/ ngỗng tìm ra được hết vịt/ vịt tiêu diệt hết ngỗng/ phe thứ ba hoàn thành nhiệm vụ.</li><li>Cấu hình tối thiểu:</li><li><strong>OS:</strong> Windows 7<ul><li><strong>Processor:</strong> Intel Core2 Duo 2.4ghz+</li></ul><ul><li><strong>Memory:</strong> 2 GB RAM</li></ul><ul><li><strong>Graphics:</strong> Integrated Graphics</li></ul><ul><li><strong>DirectX:</strong> Version 9.0</li></ul><ul><li><strong>Network:</strong> Broadband Internet connection</li></ul><ul><li><strong>Storage:</strong> 400 MB available space</li></ul><ul><li><strong>Additional Notes:</strong> Proximity Chat Req 10Mbps Up/Down</li></ul></li><li>Cấu hình khuyến nghị:<ul><li><strong>OS:</strong> Windows 10</li></ul><ul><li><strong>Processor:</strong> Intel Core i-5 2.8Ghz</li></ul><ul><li><strong>Memory:</strong> 4 GB RAM</li></ul><ul><li><strong>Graphics:</strong> Nvidia 600 Series GPU or Equivalent</li></ul><ul><li><strong>DirectX:</strong> Version 11</li></ul><ul><li><strong>Network:</strong> Broadband Internet connection</li></ul><ul><li><strong>Storage:</strong> 500 MB available space</li></ul><ul><li><strong>Additional Notes:</strong> Proximity Chat Req 10Mbps Up/Down</li></ul></li></ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://leebadung.github.io/mywordpress/top-5-game-nen-choi-tren-steam/feed/</wfw:commentRss>
+					<wfw:commentRss>http://leebadung.github.io/mywordpress/top-5-game-nen-choi-tren-steam/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>https://leebadung.github.io/mywordpress/hello-world/</link>
-					<comments>https://leebadung.github.io/mywordpress/hello-world/#comments</comments>
+		<link>http://leebadung.github.io/mywordpress/hello-world/</link>
+					<comments>http://leebadung.github.io/mywordpress/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[LeBaDung]]></dc:creator>
 		<pubDate>Wed, 17 Aug 2022 07:10:30 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://leebadung.github.io/mywordpress/?p=1</guid>
+		<guid isPermaLink="false">http://leebadung.github.io/mywordpress/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://leebadung.github.io/mywordpress/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://leebadung.github.io/mywordpress/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

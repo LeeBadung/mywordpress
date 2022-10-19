@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-3.jpg">
+		<meta http-equiv="refresh" content="0;url=http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-3.jpg">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-3.jpg";
+			window.location = "http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-3.jpg";
 		</script>
 
-		<p>You are being redirected to <a href="https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-3.jpg">https://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-3.jpg</a></p>
+		<p>You are being redirected to <a href="http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-3.jpg">http://leebadung.github.io/mywordpress/wp-content/uploads/2022/08/blog-2-img-3.jpg</a></p>
 	</body>
 </html>
